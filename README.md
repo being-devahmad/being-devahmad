@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=being-devahmad" alt="being-devahmad" /></a> </p>
 
-- 🌱 I’m currently learning **React and PHP**
+- 🌱 I’m currently learning **React and Kotlin**
 
-- 💬 Ask me about **HTML , CSS , JavaScript , Vanilla.js**
+- 💬 Ask me about **HTML , CSS , JavaScript , ReactJs**
 
 - 📫 How to reach me **ahmadowais41@gmail.com**
 
