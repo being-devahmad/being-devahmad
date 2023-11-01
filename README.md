@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Frontend developer from Pakistan</h3>
 
 <img align="right" alt="Coding" width="400" src="https://storage.googleapis.com/media.helloumi.com/125042/channels/FJ3DZITWCY268043HGFACIP9CFUA9XM6.gif"/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rao-rabi&label=Profile%20views&color=0e75b6&style=flat" alt="rao-rabi" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=being-devahmad&label=Profile%20views&color=0e75b6&style=flat" alt="being-devahmad" /> </p>
 - 🌱 I’m currently learning **React and PHP**
 
 - 💬 Ask me about **HTML , CSS , JavaScript , Vanilla.js**
