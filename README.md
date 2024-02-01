@@ -1,5 +1,5 @@
 <p align="center"> <img  src="https://images.pexels.com/photos/577585/pexels-photo-577585.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" /> </p>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&weight=900&size=43&pause=1000&color=F72F4C&center=true&random=false&width=451&height=63&lines=I'm+Muhammad+Ahmad+Owais" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&weight=900&size=43&pause=1000&color=F72F4C&center=true&random=false&width=451&height=63&lines=I'm+Muhammad+Ahmad+Owais" alt="Typing SVG" style="padding: 50px" /></a>
 <h3 align="center">A passionate Frontend developer from Pakistan</h3>
 
 <img align="right" alt="Coding" width="400" src="https://storage.googleapis.com/media.helloumi.com/125042/channels/FJ3DZITWCY268043HGFACIP9CFUA9XM6.gif"/>
