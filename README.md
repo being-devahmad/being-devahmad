@@ -1,5 +1,5 @@
 <p align="center"> <img  src="https://thumbs.dreamstime.com/b/software-development-business-process-automation-internet-technology-concept-virtual-screen-software-development-143587196.jpg" height="300" width="1000"  /> </p>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&weight=900&size=43&pause=1000&color=F72F4C&center=true&random=false&width=451&height=63&lines=I'm+Ahmad+Owais" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&weight=900&size=43&pause=1000&color=F72F4C&center=true&random=false&width=451&height=63&lines=I'm+Muhammad+Ahmad+Owais" alt="Typing SVG" /></a>
 <h3 align="center">A passionate Frontend developer from Pakistan</h3>
 
 <img align="right" alt="Coding" width="400" src="https://storage.googleapis.com/media.helloumi.com/125042/channels/FJ3DZITWCY268043HGFACIP9CFUA9XM6.gif"/>
