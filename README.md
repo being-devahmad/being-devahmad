@@ -1,10 +1,10 @@
-<p align="center"> <img  src="https://images.pexels.com/photos/577585/pexels-photo-577585.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" /> </p>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&weight=900&size=43&pause=1000&color=F72F4C&center=true&random=false&width=451&height=63&lines=I'm+Muhammad+Ahmad+Owais" alt="Typing SVG" style="padding: 50px" /></a>
+<p align="center"> <img  src="https://thumbs.dreamstime.com/b/software-development-business-process-automation-internet-technology-concept-virtual-screen-software-development-143587196.jpg" height="300" width="1000"  /> </p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=ffcccc&amp;size=18&amp;lines=Hey!+It's+Ahmad+Owais;Frontend+Web+Developer...🏻‍💻;" style="width: 100%;">
 <h3 align="center">A passionate Frontend developer from Pakistan</h3>
 
 <img align="right" alt="Coding" width="400" src="https://storage.googleapis.com/media.helloumi.com/125042/channels/FJ3DZITWCY268043HGFACIP9CFUA9XM6.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=being-devahmad&label=Profile%20views&color=0e75b6&style=flat" alt="being-devahmad" /> </p>
-- 🌱 I’m currently learning **React Js and Node Js**
+- 🌱 I’m currently learning **MERN STACK**
 
 - 💬 Ask me about **HTML , CSS , JavaScript , Vanilla.js**
 
