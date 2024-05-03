@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=being-devahmad&label=Profile%20views&color=0e75b6&style=flat" alt="being-devahmad" /> </p>
 - 🌱 I’m currently learning **NEXT.JS**
 
-- 💬 Ask me about **JavaScript , Vanilla.js , React.js , Node.js , Express.js**
+- 💬 Ask me about **JavaScript , Vanilla.js , React.js , Redux Toolkit , Node.js , Express.js**
 
 - 📫 How to reach me **ahmadowais41@gmail.com**
 
