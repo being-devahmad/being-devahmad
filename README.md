@@ -24,10 +24,10 @@
 I'm a passionate Full Stack Developer from Pakistan, specializing in building scalable web applications. With expertise in the MERN stack, I transform ideas into elegant, efficient solutions.
 
 ### 🛠️ Technical Expertise
-- **Frontend:** React.js, Next.js, Redux Toolkit
+- **Frontend:** React.js, Next.js,
 - **Backend:** Node.js, Express.js
-- **Styling:** Tailwind CSS, Bootstrap, Material UI
-- **Database:** MongoDB, MySQL
+- **Styling:** Tailwind CSS, Bootstrap, Material UI, Shadcn UI, NextUI, Mantine UI
+- **Database:** MongoDB, MySQL, Firebase, Supabase, PostgreSQL, 
 - **Languages:** JavaScript, TypeScript
 
 ### 📚 Current Focus
