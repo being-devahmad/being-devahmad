@@ -5,7 +5,7 @@
 
 <!-- Animated Title -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Ahmad+Owais;Full+Stack+Developer;MERN+Stack+Expert;Code+Craftsman" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Ahmad+Owais;Software+Engineer;Full+Stack+Developer;Code+Craftsman" alt="Typing SVG" />
 </h1>
 
 <!-- Profile Views Counter -->
